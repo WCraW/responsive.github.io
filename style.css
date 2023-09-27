@@ -257,6 +257,7 @@ header{
 
 #s-description{
 	width: 100%;
+	min-width: 500px;
 	text-align: center;
 	padding-bottom: 10px;
 }
@@ -501,4 +502,6 @@ footer{
 	color: var(--white-font-color);
 	font-family: var(--light-font-family);
 	font-size: var(--font-little-size);
+
+	min-width: 500px;
 }
