@@ -101,7 +101,6 @@
 	font-style: none;
 	text-decoration: none;
 	color: var(--main-font-color);
-	font-size: var(--font-size);
 
 	transition: all 0.5s;
 
